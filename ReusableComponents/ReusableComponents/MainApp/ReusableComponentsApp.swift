@@ -11,7 +11,8 @@ import SwiftUI
 struct ReusableComponentsApp: App {
     var body: some Scene {
         WindowGroup {
-            MainView()
+//            MainView()
+            HamburgContent()
         }
     }
 }

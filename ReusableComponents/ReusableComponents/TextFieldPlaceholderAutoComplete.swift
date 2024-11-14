@@ -43,7 +43,7 @@ struct TextFieldPlaceholderAutoComplete: View {
                     }
                 }
         }
-        .background(.mainBackground)
+        .background(.gray.opacity(0.4))
     }
     
     private func startTypingAnimation() {
