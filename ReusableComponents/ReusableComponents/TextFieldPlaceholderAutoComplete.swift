@@ -2,7 +2,7 @@
 //  SelectingTimeView.swift
 //  Barbershop
 //
-//  Created by Shohjahon Rakhmatov on 24/12/23.
+//  Created by Shohruhmirzo Alijonov on 24/09/24.
 //
 
 import SwiftUI
