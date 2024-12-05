@@ -12,7 +12,9 @@ struct ReusableComponentsApp: App {
     var body: some Scene {
         WindowGroup {
 //            MainView()
-            HamburgContent()
+//            HamburgContent()
+//            HapticView()
+            StickyHeaderScrollView()
         }
     }
 }
